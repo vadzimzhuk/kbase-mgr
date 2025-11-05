@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Knowledge Graph Generator",
+  "description": "An application to generate, update, and validate a knowledge graph of payment system features from documentation using AI. It can also validate configurations and provide guidance on enabling features.",
+  "requestFramePermissions": []
+}
